@@ -37,3 +37,9 @@ POST   /auth/verify-email
 ├── server.js
 └── swagger.yaml
 ```
+
+## Запуск
+Запуск у IDE JetBrains WebStorm через консоль наступною командою:
+```properties
+node server.js
+```
