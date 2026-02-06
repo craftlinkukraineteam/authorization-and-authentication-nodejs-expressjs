@@ -43,3 +43,8 @@ POST   /auth/verify-email
 ```properties
 node server.js
 ```
+
+### Встановлення залежностей
+```properties
+npm install
+```
