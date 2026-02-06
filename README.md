@@ -26,3 +26,14 @@ POST   /auth/forgot-password
 POST   /auth/reset-password
 POST   /auth/verify-email
 ```
+
+### Cтруктура проєкту
+```properties
+├── .idea/
+├── node_module/
+├── README.md
+├── package-lock.json
+├── package.json
+├── server.js
+└── swagger.yaml
+```
