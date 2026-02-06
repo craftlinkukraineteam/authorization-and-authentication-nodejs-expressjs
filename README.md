@@ -38,10 +38,18 @@ POST   /auth/verify-email
 └── swagger.yaml
 ```
 
-## Запуск
+### Запуск
 Запуск у IDE JetBrains WebStorm через консоль наступною командою:
 ```properties
 node server.js
+```
+
+### Оновлення всіх залежностей npm до останніх версій
+Запуск у IDE JetBrains WebStorm через консоль наступною командами:
+```properties
+npm install -g npm-check-updates
+ncu -u
+npm install
 ```
 
 ### Встановлення залежностей
